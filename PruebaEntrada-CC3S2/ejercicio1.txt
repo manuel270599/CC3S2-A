@@ -1,0 +1,2 @@
+ejercicio1:
+el codigo implementa el algoritmo de djikstra siempre y cuando se le indique un punto de partida , el algoritmo busca la minima distancia desde ese vertice de partida hacia los demas vertices.
